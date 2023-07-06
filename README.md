@@ -1,4 +1,4 @@
-In this repository, you will find the optimized geometries of different Diketopyrrolopyrrole (DPP) derivatives., namely:
+In this repository, you will find different files related to Diketopyrrolopyrrole (DPP) derivatives, namely:
 
 1) Optimization and frequency calculations of neuter DPP-X1 and DPPX2 derivatives where X represents the substituent groups;
 2) Optimization and frequency calculations of cationic and anionic DPP-X1 and DPPX2 derivatives;
