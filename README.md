@@ -4,7 +4,7 @@ In this repository, you will find the optimized geometries of different Diketopy
 2) Optimization and frequency calculations of cationic and anionic DPP-X1 and DPPX2 derivatives;
 3) Single-point (SP) calculations at the TDDFT and HF levels of different optoelectronic properties;
 4) The Supporting Information (SI) of our paper; and
-5) one Excel file (.xlsx) containing all optoelectronic properties of the aforementioned DPP-X1 and DPP-X2 systems.
+5) one Excel file (DPP-X_Optoelectronic-Properties.xlsx) containing all optoelectronic properties of the aforementioned DPP-X1 and DPP-X2 systems.
 
 For more information, please look for the preprint of our work in the following link: https://doi.org/10.26434/chemrxiv-2023-0gzts
 
