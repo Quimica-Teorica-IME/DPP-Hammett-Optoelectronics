@@ -8,7 +8,7 @@ In this repository, you will find different files related to Diketopyrrolopyrrol
 
 Keep in mind that the ORCA files uploaded here refer to only one DPP system, but all other calculations for all other DPP-X derivatives follow the exact input.
 
-For more information, please look for the preprint of our work in the following link: https://doi.org/10.26434/chemrxiv-2023-0gzts
+For more information, please look for the the published paper of our work in the following link: https://doi.org/10.1002/jcc.27195
 
 We hope our work will help you in any way.
 
